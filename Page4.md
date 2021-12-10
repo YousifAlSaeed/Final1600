@@ -8,3 +8,5 @@ and this window should pop up for you:
 ![](Pictures/ninthScreen.png)
 
 [previous Page 3](https://github.com/YousifAlSaeed/Final1600/blob/main/Page3.md)
+
+And you can see where the video file is located
