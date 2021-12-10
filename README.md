@@ -1,4 +1,4 @@
 # Final1600
-## How to record using OBS Studio 
+## A tutorial of how to record using OBS studio
 
-First of all you need to install and open up OBS, just like this: 
+### Pages:
