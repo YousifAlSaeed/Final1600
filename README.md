@@ -1,7 +1,7 @@
 # Final1600
 ## A tutorial of how to record using OBS studio
 
-Pages:
+### Pages:
 
 [Page 1](https://github.com/YousifAlSaeed/Final1600/blob/main/Page1.md)
 [Page 2](https://github.com/YousifAlSaeed/Final1600/blob/main/Page2.md)
