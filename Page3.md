@@ -14,6 +14,6 @@ In this picture, this is the record button you have to press to start recording 
 
 And once you press it you can either stop the recording when you finish the video or you can pause it if you want to continue later
 
-![](Pictures/eightScreen.png)
+![](Pictures/eightscreen.png)
 
 And now you have mastered how to capture a video in your local computer using OBS studio. 
