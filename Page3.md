@@ -17,3 +17,5 @@ And once you press it you can either stop the recording when you finish the vide
 ![](Pictures/eightscreen.png)
 
 And now you have mastered how to capture a video in your local computer using OBS studio. 
+
+[Previous Page 2](https://github.com/YousifAlSaeed/Final1600/blob/main/Page2.md). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  [Next Page 4](https://github.com/YousifAlSaeed/Final1600/blob/main/Page4.md)
