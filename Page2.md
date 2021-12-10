@@ -12,4 +12,8 @@ You want to make sure you Select "Display Capture" between the options listed.
 
 ![](Pictures/ThridScreen.png)
 
-Click the OK button and you are ready for the next step.
+Click the OK button and the second OK shown below
+
+![](Pictures/forthScreen.png)
+
+and now you are ready for the final step!
